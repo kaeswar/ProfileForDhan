@@ -8,6 +8,12 @@ A free, open-source desktop application for generating and visualizing **Market 
 
 ---
 
+<p align="center">
+  <img src="MarketProfile_Dhan_ScreenShot.png" alt="Simple Profile Application - Market Profile with Dhan API" width="90%">
+</p>
+
+---
+
 ## What is Market Profile?
 
 Market Profile is a charting technique developed by J. Peter Steidlmayer at the Chicago Board of Trade. It organizes price and time data to show where the market spent the most time (Point of Control), the Value Area (where ~68% of trading occurred), and the structure of price acceptance/rejection throughout the session.
